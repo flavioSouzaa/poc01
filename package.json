@@ -1,0 +1,14 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "poc para demonstração",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "flavio souza",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
