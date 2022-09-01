@@ -4,3 +4,4 @@ cypress/screenshots
 cypress/fixtures
 cypress/plugins
 cypress.env.json
+sorry-cypress
